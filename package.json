@@ -1,0 +1,22 @@
+{
+  "name": "peter-cassara",
+  "version": "1.0.0",
+  "description": "A application to host cassara colthiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "cassara",
+    "clothier",
+    "app"
+  ],
+  "author": "Carlos A Alba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-compile-sass": "^4.0.0",
+    "pug": "^2.0.3"
+  }
+}
